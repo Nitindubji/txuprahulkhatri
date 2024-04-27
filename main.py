@@ -30,9 +30,9 @@ import io
 import logging
 
 bot = Client("bot",
-             bot_token= "6573695895:AAFVK1IVBmN2egCnVCZBujt4bi3yhPktyFU",
-             api_id= 16818625,
-             api_hash= "38fb061efb9e27b865f6923d2bb03e49")
+             bot_token= "7030536652:AAGGATsE0momFurlN2fYCmVaynNhQyg46FA",
+             api_id= "24935691",
+             api_hash= "83ce5a4d5ac4a87f0503cdf89f9b2618")
 
 
 @bot.on_message(filters.command(["start"]))
